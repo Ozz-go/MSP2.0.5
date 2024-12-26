@@ -8099,3 +8099,9 @@ java.lang.ClassNotFoundException: com.google.gson.reflect.TypeToken
 [26Dec2024 16:04:33.139] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [26Dec2024 16:04:33.167] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
 [26Dec2024 16:05:52.110] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: St00ck has made the advancement [Isn't It Iron Pick]
+[26Dec2024 16:09:33.140] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[26Dec2024 16:09:33.153] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[26Dec2024 16:09:34.484] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@43478fd5
+[26Dec2024 16:13:48.128] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: St00ck has made the advancement [Sweet Dreams]
+[26Dec2024 16:14:33.141] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[26Dec2024 16:14:33.181] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world

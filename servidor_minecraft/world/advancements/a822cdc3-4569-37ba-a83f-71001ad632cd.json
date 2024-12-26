@@ -5,6 +5,12 @@
     },
     "done": true
   },
+  "minecraft:adventure/sleep_in_bed": {
+    "criteria": {
+      "slept_in_bed": "2024-12-26 16:13:48 +0000"
+    },
+    "done": true
+  },
   "iceandfire:iceandfire/root": {
     "criteria": {
       "tick": "2024-12-26 15:14:30 +0000"
@@ -14,6 +20,12 @@
   "minecraft:husbandry/root": {
     "criteria": {
       "consumed_item": "2024-12-26 15:20:39 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/iron_tools": {
+    "criteria": {
+      "iron_pickaxe": "2024-12-26 16:05:52 +0000"
     },
     "done": true
   },
@@ -28,6 +40,7 @@
       "minecraft:skeleton": "2024-12-26 15:29:12 +0000",
       "minecraft:spider": "2024-12-26 15:54:56 +0000",
       "minecraft:creeper": "2024-12-26 15:30:36 +0000",
+      "minecraft:witch": "2024-12-26 16:07:42 +0000",
       "minecraft:zombie": "2024-12-26 15:54:49 +0000"
     },
     "done": false
