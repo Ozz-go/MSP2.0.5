@@ -66,6 +66,7 @@
       "woodland": "2024-12-26 15:17:36 +0000",
       "shrubland": "2024-12-26 15:44:52 +0000",
       "old_growth_woodland": "2024-12-26 15:43:52 +0000",
+      "lavender_field": "2024-12-26 17:51:18 +0000",
       "rainforest": "2024-12-26 15:14:30 +0000"
     },
     "done": false
@@ -88,10 +89,18 @@
     },
     "done": true
   },
+  "botania:main/apothecary_pickup": {
+    "criteria": {
+      "apothecary": "2024-12-26 17:58:46 +0000"
+    },
+    "done": true
+  },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
       "minecraft:beach": "2024-12-26 15:46:17 +0000",
-      "minecraft:river": "2024-12-26 15:43:00 +0000"
+      "minecraft:river": "2024-12-26 15:43:00 +0000",
+      "minecraft:forest": "2024-12-26 17:56:15 +0000",
+      "minecraft:plains": "2024-12-26 17:54:02 +0000"
     },
     "done": false
   },
