@@ -23,9 +23,21 @@
     },
     "done": false
   },
+  "botania:main/root": {
+    "criteria": {
+      "flower": "2024-12-26 17:36:55 +0000"
+    },
+    "done": true
+  },
   "tconstruct:tools/materials_and_you": {
     "criteria": {
       "crafted_book": "2024-12-26 15:14:30 +0000"
+    },
+    "done": true
+  },
+  "botania:challenge/root": {
+    "criteria": {
+      "flower": "2024-12-26 17:36:55 +0000"
     },
     "done": true
   },
@@ -70,6 +82,12 @@
     },
     "done": true
   },
+  "botania:main/flower_pickup_lexicon": {
+    "criteria": {
+      "flower": "2024-12-26 17:36:55 +0000"
+    },
+    "done": true
+  },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
       "minecraft:beach": "2024-12-26 15:46:17 +0000",
@@ -107,6 +125,12 @@
     },
     "done": true
   },
+  "alexsmobs:alexsmobs/leafcutter_ant_pupa": {
+    "criteria": {
+      "leafcutter_ant_pupa": "2024-12-26 17:41:06 +0000"
+    },
+    "done": true
+  },
   "minecraft:story/mine_diamond": {
     "criteria": {
       "diamond": "2024-12-26 16:43:32 +0000"
@@ -128,6 +152,12 @@
   "minecraft:story/root": {
     "criteria": {
       "crafting_table": "2024-12-26 15:17:05 +0000"
+    },
+    "done": true
+  },
+  "botania:main/flower_pickup": {
+    "criteria": {
+      "flower": "2024-12-26 17:36:55 +0000"
     },
     "done": true
   },
