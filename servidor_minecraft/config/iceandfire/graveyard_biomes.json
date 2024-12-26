@@ -1,25 +1,36 @@
 {
+  "citadel_format": 0,
   "biomes": [
     [
       {
-        "type": "BIOME_TAG",
+        "type": "BIOME_DICT",
         "negate": false,
-        "value": "minecraft:is_overworld"
+        "value": "overworld"
       },
       {
-        "type": "BIOME_TAG",
+        "type": "BIOME_DICT",
         "negate": true,
-        "value": "forge:is_water"
+        "value": "ocean"
       },
       {
-        "type": "BIOME_TAG",
+        "type": "BIOME_CATEGORY",
         "negate": true,
-        "value": "minecraft:is_beach"
+        "value": "ocean"
       },
       {
-        "type": "BIOME_TAG",
+        "type": "BIOME_CATEGORY",
         "negate": true,
-        "value": "forge:is_underground"
+        "value": "river"
+      },
+      {
+        "type": "BIOME_DICT",
+        "negate": true,
+        "value": "beach"
+      },
+      {
+        "type": "BIOME_CATEGORY",
+        "negate": true,
+        "value": "beach"
       }
     ]
   ]

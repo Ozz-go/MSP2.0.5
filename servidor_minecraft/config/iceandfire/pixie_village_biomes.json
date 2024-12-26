@@ -1,10 +1,11 @@
 {
+  "citadel_format": 0,
   "biomes": [
     [
       {
         "type": "BIOME_TAG",
         "negate": false,
-        "value": "minecraft:is_overworld"
+        "value": "forge:is_overworld"
       },
       {
         "type": "BIOME_TAG",
@@ -21,7 +22,7 @@
       {
         "type": "BIOME_TAG",
         "negate": false,
-        "value": "minecraft:is_overworld"
+        "value": "forge:is_overworld"
       },
       {
         "type": "BIOME_TAG",
@@ -29,14 +30,14 @@
         "value": "forge:is_dense"
       },
       {
-        "type": "BIOME_TAG",
+        "type": "BIOME_CATEGORY",
         "negate": false,
-        "value": "minecraft:is_forest"
+        "value": "forest"
       },
       {
         "type": "BIOME_TAG",
         "negate": true,
-        "value": "forge:is_mountain"
+        "value": "minecraft:is_mountain"
       },
       {
         "type": "BIOME_TAG",
@@ -46,7 +47,7 @@
       {
         "type": "BIOME_TAG",
         "negate": true,
-        "value": "forge:is_wet/overworld"
+        "value": "forge:is_wet"
       },
       {
         "type": "BIOME_TAG",
@@ -64,9 +65,9 @@
         "value": "forge:is_dry"
       },
       {
-        "type": "BIOME_TAG",
+        "type": "BIOME_CATEGORY",
         "negate": true,
-        "value": "minecraft:is_taiga"
+        "value": "taiga"
       }
     ],
     [

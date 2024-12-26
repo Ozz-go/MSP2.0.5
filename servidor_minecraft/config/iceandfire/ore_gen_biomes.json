@@ -1,10 +1,11 @@
 {
+  "citadel_format": 0,
   "biomes": [
     [
       {
         "type": "BIOME_TAG",
         "negate": false,
-        "value": "minecraft:is_overworld"
+        "value": "forge:is_overworld"
       }
     ]
   ]
