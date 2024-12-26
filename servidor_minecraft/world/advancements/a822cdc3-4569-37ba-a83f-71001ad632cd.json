@@ -1,4 +1,82 @@
 {
+  "botania:main/lexicon_use": {
+    "criteria": {
+      "use_lexicon": "2024-12-26 16:33:37 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/kill_a_mob": {
+    "criteria": {
+      "minecraft:skeleton": "2024-12-26 15:29:12 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/kill_all_mobs": {
+    "criteria": {
+      "minecraft:skeleton": "2024-12-26 15:29:12 +0000",
+      "minecraft:spider": "2024-12-26 15:54:56 +0000",
+      "minecraft:creeper": "2024-12-26 15:30:36 +0000",
+      "minecraft:witch": "2024-12-26 16:07:42 +0000",
+      "minecraft:cave_spider": "2024-12-26 16:28:37 +0000",
+      "minecraft:silverfish": "2024-12-26 16:16:31 +0000",
+      "minecraft:zombie": "2024-12-26 15:54:49 +0000"
+    },
+    "done": false
+  },
+  "tconstruct:tools/materials_and_you": {
+    "criteria": {
+      "crafted_book": "2024-12-26 15:14:30 +0000"
+    },
+    "done": true
+  },
+  "tconstruct:internal/starting_book": {
+    "criteria": {
+      "tick": "2024-12-26 15:14:30 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/obtain_armor": {
+    "criteria": {
+      "iron_chestplate": "2024-12-26 15:58:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/balanced_diet": {
+    "criteria": {
+      "bread": "2024-12-26 16:20:38 +0000",
+      "rotten_flesh": "2024-12-26 15:20:39 +0000",
+      "melon_slice": "2024-12-26 15:30:40 +0000"
+    },
+    "done": false
+  },
+  "biomesoplenty:biomesoplenty/all_biomes": {
+    "criteria": {
+      "woodland": "2024-12-26 15:17:36 +0000",
+      "shrubland": "2024-12-26 15:44:52 +0000",
+      "old_growth_woodland": "2024-12-26 15:43:52 +0000",
+      "rainforest": "2024-12-26 15:14:30 +0000"
+    },
+    "done": false
+  },
+  "minecraft:story/mine_stone": {
+    "criteria": {
+      "get_stone": "2024-12-26 15:21:00 +0000"
+    },
+    "done": true
+  },
+  "duckling:pet_duck": {
+    "criteria": {
+      "pet_duck": "2024-12-26 15:43:04 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/adventuring_time": {
+    "criteria": {
+      "minecraft:beach": "2024-12-26 15:46:17 +0000",
+      "minecraft:river": "2024-12-26 15:43:00 +0000"
+    },
+    "done": false
+  },
   "biomesoplenty:biomesoplenty/root": {
     "criteria": {
       "rainforest": "2024-12-26 15:14:30 +0000"
@@ -29,23 +107,6 @@
     },
     "done": true
   },
-  "minecraft:adventure/kill_a_mob": {
-    "criteria": {
-      "minecraft:skeleton": "2024-12-26 15:29:12 +0000"
-    },
-    "done": true
-  },
-  "minecraft:adventure/kill_all_mobs": {
-    "criteria": {
-      "minecraft:skeleton": "2024-12-26 15:29:12 +0000",
-      "minecraft:spider": "2024-12-26 15:54:56 +0000",
-      "minecraft:creeper": "2024-12-26 15:30:36 +0000",
-      "minecraft:witch": "2024-12-26 16:07:42 +0000",
-      "minecraft:silverfish": "2024-12-26 16:16:31 +0000",
-      "minecraft:zombie": "2024-12-26 15:54:49 +0000"
-    },
-    "done": false
-  },
   "minecraft:story/upgrade_tools": {
     "criteria": {
       "stone_pickaxe": "2024-12-26 15:28:35 +0000"
@@ -64,62 +125,15 @@
     },
     "done": true
   },
-  "tconstruct:tools/materials_and_you": {
-    "criteria": {
-      "crafted_book": "2024-12-26 15:14:30 +0000"
-    },
-    "done": true
-  },
-  "tconstruct:internal/starting_book": {
-    "criteria": {
-      "tick": "2024-12-26 15:14:30 +0000"
-    },
-    "done": true
-  },
-  "minecraft:story/obtain_armor": {
-    "criteria": {
-      "iron_chestplate": "2024-12-26 15:58:17 +0000"
-    },
-    "done": true
-  },
   "paraglider:root": {
     "criteria": {
       "crafting_table": "2024-12-26 15:17:05 +0000"
     },
     "done": true
   },
-  "minecraft:husbandry/balanced_diet": {
-    "criteria": {
-      "bread": "2024-12-26 16:20:38 +0000",
-      "rotten_flesh": "2024-12-26 15:20:39 +0000",
-      "melon_slice": "2024-12-26 15:30:40 +0000"
-    },
-    "done": false
-  },
   "minecraft:story/smelt_iron": {
     "criteria": {
       "iron": "2024-12-26 15:57:57 +0000"
-    },
-    "done": true
-  },
-  "biomesoplenty:biomesoplenty/all_biomes": {
-    "criteria": {
-      "woodland": "2024-12-26 15:17:36 +0000",
-      "shrubland": "2024-12-26 15:44:52 +0000",
-      "old_growth_woodland": "2024-12-26 15:43:52 +0000",
-      "rainforest": "2024-12-26 15:14:30 +0000"
-    },
-    "done": false
-  },
-  "minecraft:story/mine_stone": {
-    "criteria": {
-      "get_stone": "2024-12-26 15:21:00 +0000"
-    },
-    "done": true
-  },
-  "duckling:pet_duck": {
-    "criteria": {
-      "pet_duck": "2024-12-26 15:43:04 +0000"
     },
     "done": true
   },
@@ -141,12 +155,11 @@
     },
     "done": true
   },
-  "minecraft:adventure/adventuring_time": {
+  "minecraft:adventure/shoot_arrow": {
     "criteria": {
-      "minecraft:beach": "2024-12-26 15:46:17 +0000",
-      "minecraft:river": "2024-12-26 15:43:00 +0000"
+      "shot_arrow": "2024-12-26 16:28:36 +0000"
     },
-    "done": false
+    "done": true
   },
   "DataVersion": 2975
 }

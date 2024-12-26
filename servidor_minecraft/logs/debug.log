@@ -8109,3 +8109,12 @@ java.lang.ClassNotFoundException: com.google.gson.reflect.TypeToken
 [26Dec2024 16:19:33.209] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
 [26Dec2024 16:24:33.146] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [26Dec2024 16:24:33.161] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[26Dec2024 16:28:36.472] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: St00ck has made the advancement [Take Aim]
+[26Dec2024 16:29:33.138] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[26Dec2024 16:29:33.163] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[26Dec2024 16:32:02.873] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: St00ck was slain by Cave Centipede
+[26Dec2024 16:32:05.718] [Server thread/DEBUG] [twilightforest/]: Player St00ck (a822cdc3-4569-37ba-a83f-71001ad632cd) respawned and received items held in storage
+[26Dec2024 16:32:15.785] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2617ms or 52 ticks behind
+[26Dec2024 16:33:37.730] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: St00ck has made the advancement [A Realistical Logical Ideologist]
+[26Dec2024 16:34:35.736] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[26Dec2024 16:34:35.749] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world

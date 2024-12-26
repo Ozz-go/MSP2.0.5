@@ -548,3 +548,7 @@ java.lang.ClassNotFoundException: com.google.gson.reflect.TypeToken
 [26Dec2024 16:05:52.110] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: St00ck has made the advancement [Isn't It Iron Pick]
 [26Dec2024 16:09:34.484] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@43478fd5
 [26Dec2024 16:13:48.128] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: St00ck has made the advancement [Sweet Dreams]
+[26Dec2024 16:28:36.472] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: St00ck has made the advancement [Take Aim]
+[26Dec2024 16:32:02.873] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: St00ck was slain by Cave Centipede
+[26Dec2024 16:32:15.785] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2617ms or 52 ticks behind
+[26Dec2024 16:33:37.730] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: St00ck has made the advancement [A Realistical Logical Ideologist]
