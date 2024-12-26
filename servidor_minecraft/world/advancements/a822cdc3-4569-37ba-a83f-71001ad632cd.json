@@ -41,6 +41,7 @@
       "minecraft:spider": "2024-12-26 15:54:56 +0000",
       "minecraft:creeper": "2024-12-26 15:30:36 +0000",
       "minecraft:witch": "2024-12-26 16:07:42 +0000",
+      "minecraft:silverfish": "2024-12-26 16:16:31 +0000",
       "minecraft:zombie": "2024-12-26 15:54:49 +0000"
     },
     "done": false
@@ -89,6 +90,7 @@
   },
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
+      "bread": "2024-12-26 16:20:38 +0000",
       "rotten_flesh": "2024-12-26 15:20:39 +0000",
       "melon_slice": "2024-12-26 15:30:40 +0000"
     },
