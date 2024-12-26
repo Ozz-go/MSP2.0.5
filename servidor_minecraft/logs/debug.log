@@ -8127,3 +8127,7 @@ java.lang.ClassNotFoundException: com.google.gson.reflect.TypeToken
 [26Dec2024 16:44:35.861] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
 [26Dec2024 16:45:33.363] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of iceandfire:graveyard/graveyard_top
 [26Dec2024 16:45:33.366] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of iceandfire:graveyard/graveyard_bottom
+[26Dec2024 16:49:35.742] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[26Dec2024 16:49:35.759] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[26Dec2024 16:54:35.733] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[26Dec2024 16:54:35.746] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
