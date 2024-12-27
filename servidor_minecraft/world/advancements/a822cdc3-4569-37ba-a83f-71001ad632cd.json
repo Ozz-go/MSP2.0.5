@@ -41,6 +41,12 @@
     },
     "done": true
   },
+  "botania:main/mana_pool_pickup_lexicon": {
+    "criteria": {
+      "pickup": "2024-12-27 02:18:28 +0000"
+    },
+    "done": true
+  },
   "tconstruct:internal/starting_book": {
     "criteria": {
       "tick": "2024-12-26 15:14:30 +0000"
@@ -122,6 +128,12 @@
     },
     "done": true
   },
+  "botania:main/generating_flower": {
+    "criteria": {
+      "flower": "2024-12-27 02:16:01 +0000"
+    },
+    "done": true
+  },
   "iceandfire:iceandfire/root": {
     "criteria": {
       "tick": "2024-12-26 15:14:30 +0000"
@@ -191,6 +203,12 @@
   "minecraft:adventure/root": {
     "criteria": {
       "killed_something": "2024-12-26 15:29:12 +0000"
+    },
+    "done": true
+  },
+  "botania:main/mana_pool_pickup": {
+    "criteria": {
+      "pickup": "2024-12-27 02:18:28 +0000"
     },
     "done": true
   },
